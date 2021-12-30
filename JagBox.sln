@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JagBox", "JagBox.vcproj", "{34CE9108-E163-4110-9399-B9F12B45D91C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Profile = Profile
+		Profile_FastCap = Profile_FastCap
+		Release = Release
+		Release_LTCG = Release_LTCG
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{34CE9108-E163-4110-9399-B9F12B45D91C}.Debug.ActiveCfg = Debug|Xbox
+		{34CE9108-E163-4110-9399-B9F12B45D91C}.Debug.Build.0 = Debug|Xbox
+		{34CE9108-E163-4110-9399-B9F12B45D91C}.Profile.ActiveCfg = Profile|Xbox
+		{34CE9108-E163-4110-9399-B9F12B45D91C}.Profile.Build.0 = Profile|Xbox
+		{34CE9108-E163-4110-9399-B9F12B45D91C}.Profile_FastCap.ActiveCfg = Profile_FastCap|Xbox
+		{34CE9108-E163-4110-9399-B9F12B45D91C}.Profile_FastCap.Build.0 = Profile_FastCap|Xbox
+		{34CE9108-E163-4110-9399-B9F12B45D91C}.Release.ActiveCfg = Release|Xbox
+		{34CE9108-E163-4110-9399-B9F12B45D91C}.Release.Build.0 = Release|Xbox
+		{34CE9108-E163-4110-9399-B9F12B45D91C}.Release_LTCG.ActiveCfg = Release_LTCG|Xbox
+		{34CE9108-E163-4110-9399-B9F12B45D91C}.Release_LTCG.Build.0 = Release_LTCG|Xbox
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
